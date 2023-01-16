@@ -1,0 +1,12 @@
+body {background-color: aquamarine;}
+div{color: blueviolet; box-sizing: content-box;
+
+    border: 5px solid ;
+    border-top: green dotted ;
+    border-radius: 15px ;   
+text-align: center;
+text-shadow: 10px;
+}
+div:hover {background-color: aqua;
+block-size: auto;
+}
